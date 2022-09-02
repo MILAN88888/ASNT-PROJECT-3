@@ -1,0 +1,35 @@
+#page-container
+{
+positon:relative;
+min-heigth:100%;
+background-color:rgb(220, 220, 220);
+
+}
+#page-container #msge
+{
+    display: inline;
+    color: red;
+    
+}
+#page-container #msge span{
+    font-size: 20px;
+}
+ #page-container #btn
+{
+    background-color: red;
+    
+}
+#page-container #maindiv
+{
+    margin-top: 100px;
+}
+ #page-container #m{
+    text-decoration: none;
+    text-shadow: 2px;
+    color: lightskyblue;
+}
+#page-container #a,#page-container #b
+{
+    color:white;
+    
+}
